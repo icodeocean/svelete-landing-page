@@ -1,12 +1,6 @@
-# startpage
+# landing-svelte
 
-A clean startpage made with Svelte.
-
-Check out my newer startpage: https://github.com/refact0r/alpine
-
-Firefox theme: https://github.com/refact0r/sidefox
-
-![image](https://user-images.githubusercontent.com/34758569/175662486-e08443d9-fda8-4898-ad12-dc6e0c1b0429.png)
+A clean landing page made with Svelte.
 
 ## Installation
 
